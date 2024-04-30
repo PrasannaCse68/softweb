@@ -884,10 +884,10 @@ Info.html
         <div class="box-2">
           <h2>Contact Info</h2>
           <p>
-            <span>Address</span> :No:30/9.Judge Vijayarangam street, Saidapet, Arni-632301.
+            <span>Address</span> :Saveetha Engineering College.
           </p>
-          <p><span>Email</span> : vktharun15@gmail.com</p>
-          <p><span>Phone</span> : 9345619743</p>
+          <p><span>Email</span> : Prasanna@gmail.com</p>
+          <p><span>Phone</span> : 0987654321</p>
         </div>
       </div>
     </div>
@@ -905,7 +905,10 @@ Info.html
 
 ![products](https://github.com/PrasannaCse68/softweb/assets/127935950/7546da8d-6ad2-4416-8d63-548ed7d03c1d)
 
-![info](https://github.com/PrasannaCse68/softweb/assets/127935950/c8144e78-cedc-4e0e-9a5c-e91fec947686)
+
+
+![contact](https://github.com/PrasannaCse68/softweb/assets/127935950/8c7c11b1-246f-4c88-aa40-6aefa4272297)
+
 
 
 
