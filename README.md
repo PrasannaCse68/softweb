@@ -1,4 +1,5 @@
-##Prasanna G R
+## CSS Basic Project
+
 ## Date:15.07.2024
 
 ## AIM:
