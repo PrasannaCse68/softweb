@@ -1,4 +1,4 @@
-## CSS Basic Project
+## # Ex.07 CSS Basic Project
 
 ## Date:17.03.2025
 
